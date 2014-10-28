@@ -1,9 +1,9 @@
 ##The website title
 name: luksan's observations
 ##Markdown processor
-markdown: redcarpet
+markdown: kramdown
 ##syntax highlighter
-highlighter: rouge
+highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://luksan.github.io
